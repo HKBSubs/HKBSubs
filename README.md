@@ -14,4 +14,4 @@
   
   
  ## 🌐 Socials: 
- [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://dsc.gg/hkbsubs) ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCKig020c_J7syQQAausUEkA)
+ [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)]([https://discord.com/invite/gW2dH5VsUz]) ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCKig020c_J7syQQAausUEkA)
